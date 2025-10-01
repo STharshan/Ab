@@ -8,11 +8,7 @@ const services = [
   {
     title: "DT VALET",
     desc: `Deep clean of all wheels including callipers, barrels and arches
-A two stage pre-wash including citrus wash and snow foam to lift off the top layer of dirt before contacting the paintwork
-Two bucket safe wash, one wash bucket and one rinse bucket so the mitt is clean every time it touches the car
-Soft bristle brush then cleans the tighter areas with APC
-The car is then dried with luxury drying towel and air blower
-Spray sealant is applied giving up to 8 weeks of protection`,
+A two stage pre-wash including citrus wash and snow foam to lift off the top layer of dirt before contacting the paintwork`,
     image: "/carpaint.avif",
     path: "/services/mechanical",
   },
@@ -20,25 +16,14 @@ Spray sealant is applied giving up to 8 weeks of protection`,
     title: "DT DETAIL",
     desc: `2 Stage decontamination using fallout remover and tar & glue remover
 Car snow foamed again to remove any chemicals left behind
-Exterior wax upgraded giving up to 8 months protection
-All windows polished
-Exhaust tips cleaned and buffed
-​
-
-Deep interior clean using steam
-Mats and carpets shampooed and extracted
-All leather cleaned using leather solution with soft brushes then conditioned`,
+​`,
     image: "/gray.avif",
     path: "/services/service",
   },
   {
     title: "DT MAINTENANCE",
     desc: `
-Once you have had a DT DETAIL you will automatically be enrolled on to the maintenance scheme
-
-This will maintain the condition of your car and eliminate the need of further details
-
-Maintenance cleans should be booked in within 8 weeks of a DT DETAIL and can then continue to be booked so long as it is within 8 weeks `,
+Once you have had a DT DETAIL you will automatically be enrolled on to the maintenance scheme`,
     image: "/carmechanic.avif",
     path: "/services/mot",
   },
