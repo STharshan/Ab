@@ -6,14 +6,14 @@ import "aos/dist/aos.css";
 
 const services = [
   {
-    title: "DT VALET",
+    title: "AB VALETING",
     desc: `Deep clean of all wheels including callipers, barrels and arches
 A two stage pre-wash including citrus wash and snow foam to lift off the top layer of dirt before contacting the paintwork`,
     image: "/carpaint.avif",
     path: "/services/mechanical",
   },
   {
-    title: "DT DETAIL",
+    title: "AB DETAILING",
     desc: `2 Stage decontamination using fallout remover and tar & glue remover
 Car snow foamed again to remove any chemicals left behind
 ​`,
@@ -21,28 +21,16 @@ Car snow foamed again to remove any chemicals left behind
     path: "/services/service",
   },
   {
-    title: "DT MAINTENANCE",
+    title: "AB MAINTENANCE",
     desc: `
-Once you have had a DT DETAIL you will automatically be enrolled on to the maintenance scheme`,
+Once you have had a AB DETAIL you will automatically be enrolled on to the maintenance scheme`,
     image: "/carmechanic.avif",
     path: "/services/mot",
   },
   {
-    title: "DT MACHINE POLISH",
+    title: "AB MACHINE POLISH",
     desc: `
-The DT MACHINE POLISH is a full Stage 1 polish of the paintwork including wing mirrors, door pillars and grill
-
-​
-
-The aim is to remove between 70 and 90 percent of swirls and minor defects
-
-​
-
-2 Stage decontamination using fallout remover and tar & glue remover to get the paint as smooth as possible before the polishing stage
-Exterior wax upgraded giving up to 8 months protection
-All windows cleaned
-Exhaust tips cleaned and buffed
-Finished with tyre shine​
+The AB MACHINE POLISH is a full Stage 1 polish of the paintwork including wing mirrors, door pillars and grill
 Interior clean can be added as an optional added extra (see added extras below for more info and prices)`,
     image: "/paint.webp",
     path: "/services/wheel-alignment",
@@ -81,7 +69,7 @@ const ServiceSection = () => {
           Our Services
         </h2>
         <p
-          className="text-center text-light mb-8"
+          className="text-center text-black dark:text-white text-lg mb-8"
           data-aos="fade-up"
           data-aos-delay="100"
         >
