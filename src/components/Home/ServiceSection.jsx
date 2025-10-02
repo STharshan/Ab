@@ -7,15 +7,13 @@ import "aos/dist/aos.css";
 const services = [
   {
     title: "AB VALETING",
-    desc: `Deep clean of all wheels including callipers, barrels and arches
-A two stage pre-wash including citrus wash and snow foam to lift off the top layer of dirt before contacting the paintwork`,
+    desc: `Affordable, convenient cleaning to give your car a fresh showroom look.`,
     image: "/carpaint.avif",
     path: "/services/mechanical",
   },
   {
     title: "AB DETAILING",
-    desc: `2 Stage decontamination using fallout remover and tar & glue remover
-Car snow foamed again to remove any chemicals left behind
+    desc: `Showroom shine that protects your paint and makes your car stand out.
 ​`,
     image: "/gray.avif",
     path: "/services/service",
