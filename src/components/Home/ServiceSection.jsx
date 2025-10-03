@@ -71,7 +71,7 @@ const ServiceSection = () => {
               <span>★</span>
             </div>
             {/* Rating Text */}
-            <span className=" text-sm font-medium text-black dark:text-white">4.7/5 from</span>
+            <span className=" text-sm font-medium text-black dark:text-white">5/5 from</span>
             {/* Reviews Badge */}
             <span className="bg-secondary border text-black dark:text-white border-gray-600 px-3 py-1 rounded-full text-xs font-medium">
               84+ Reviews

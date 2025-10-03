@@ -96,7 +96,7 @@ const HeroSection = () => {
           {/* Rating Section */}
           <p className="text-lg">Team<span className="ml-5">5</span></p>
           <p className="uppercase hidden sm:flex">Top Rated</p>
-          <div className="flex items-center gap-3 dark:bg-black border border-gray-600 px-4 py-2 rounded-full order-1 sm:order-2 mb-3 sm:mb-0">
+          <div className="flex items-center gap-3 dark:bg-black border mt-5 border-gray-600 px-4 py-2 rounded-full order-1 sm:order-2 mb-3 sm:mb-0">
             {/* Stars */}
             <div className="flex text-yellow-400 text-lg">
               <span>★</span>
@@ -106,7 +106,7 @@ const HeroSection = () => {
               <span>★</span>
             </div>
             {/* Rating Text */}
-            <span className="text-white text-sm font-medium">4.7/5 from</span>
+            <span className="text-white text-sm font-medium">5/5 from</span>
             {/* Reviews Badge */}
             <span className="bg-secondary border border-gray-600 px-3 py-1 rounded-full text-white text-xs font-medium">
               84+ Reviews
